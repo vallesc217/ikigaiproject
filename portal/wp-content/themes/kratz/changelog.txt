@@ -1,0 +1,22 @@
+Version 1.0.3
+    Fixed: 
+        - Update plugins to their latest versions
+		- Theme styles
+	Added:
+		- ThemeREX Socials plugin
+		- ThemeREX Updater plugin
+		- PHP 8.0 compatibility
+	Changed:
+        - Update demo data
+	Removed:
+        - Smash Balloon Instagram Feed
+
+Version 1.0.2
+    - Themerex Addons vulnarability fixed
+
+Version 1.0.1
+	Fixed:
+    - Theme is adapted for envato elements
+
+ Version 1.0.0 (Release)
+ Plugin TRX Addons has not been edited

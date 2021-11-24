@@ -1,0 +1,28 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">wpcf7_contact_form</custom-type>
+        <custom-type translate="1">vc_grid_item</custom-type>
+    </custom-types>
+
+    <custom-fields>
+        <custom-field action="translate">creptaam_qoute</custom-field>
+        <custom-field action="translate">creptaam_qoute_author</custom-field>
+        <custom-field action="translate">creptaam_link_text</custom-field>
+        <custom-field action="translate">creptaam_link_title</custom-field>
+        <custom-field action="translate">creptaam_page_subtitle</custom-field>
+        <custom-field action="copy">creptaam_post_views_count</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="creptaam_theme_option">
+            <key name="header-contact"/>
+            <key name="blog-title"/>
+            <key name="text-logo"/>
+            <key name="404_text"/>
+            <key name="404_subtext"/>
+            <key name="404_desc"/>
+            <key name="404_button_text"/>
+            <key name="footer-intro-title"/>
+            <key name="footer-text"/>
+        </key>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^site\.ikigaicrm\.net$
+RewriteRule ^/?$ "https\:\/\/site\.ikigaicrm\.net\/" [R=301,L]
+
